@@ -1,0 +1,59 @@
+{
+ "ver": 20240312,
+ "data": [
+  {
+  "comment": "浙江 嘉兴 电信",
+  "ip": "yordon.cn",
+  "port": 11451,
+  "flag": "cn"
+  },
+  {
+  "comment": "广东 广州 华为云",
+  "ip": "124.71.62.96",
+  "port": 11451,
+  "flag": "cn"
+  },
+  {
+  "comment": "河南 郑州 联通",
+  "ip": "srv.jaxlewis.top",
+  "port": 11451,
+  "flag": "cn"
+  },
+  {
+  "comment": "上海 腾讯云",
+  "ip": "124.221.52.85",
+  "port": 11451,
+  "flag": "cn"
+  },
+  {
+  "comment": "中国台湾 新北 中華電信",
+  "ip": "switchlanplay-tw.ddns.net",
+  "port": 11451,
+  "flag": "tw"
+  },
+  {
+  "comment": "美国",
+  "ip": "joinsg.net",
+  "port": 11453,
+  "flag": "us"
+  },
+  {
+  "comment": "美国加利福尼亚旧金山",
+  "ip": "tekn0.net",
+  "port": 11451,
+  "flag": "us"
+  },
+  {
+  "comment": "美国弗吉尼亚阿什本",
+  "ip": "switch.jayseateam.nl",
+  "port": 11451,
+  "flag": "us"
+  },
+  {
+  "comment": "德国北莱茵 Unitymedia",
+  "ip": "switch-lanyplay-de.ddns.net",
+  "port": 11451,
+  "flag": "de"
+  }
+ ]
+}
